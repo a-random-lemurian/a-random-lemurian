@@ -1,0 +1,3 @@
+amogus
+----
+vote red
