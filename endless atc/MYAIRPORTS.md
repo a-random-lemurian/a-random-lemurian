@@ -7,7 +7,7 @@ Airports that I have made:
 Airports that I really want to make:
 * RPLL - Ninoy Aquino International Airport
 * RPVM - Mactan-Cebu International Airport
-* [KXTA](https://en.m.wikipedia.org/wiki/Area_51) *No words. Just read it for yourself[1]*
+* [KXTA](https://en.m.wikipedia.org/wiki/Area_51) - *No words. Just read it for yourself[1]*
 -----
 
 
